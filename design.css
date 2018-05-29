@@ -1,0 +1,69 @@
+/*
+Filename: design.css
+Author: Simon
+Date Created: 4th April 2014
+Last Updated: 16th April 2014
+*/
+
+body 
+	{
+	font-family: arial, sans-serif;
+	background-color: #3b3b3b;
+	background-image:url('pictures/poke.jpg');
+	background-size:100% 100%;
+	}
+
+header 
+	{
+	padding: 10px 20px;
+	color: #FFFFFF;
+	background-color: #919191;
+	border-bottom: dotted 1px white;
+	}
+
+
+
+#base 
+	{
+	width: 95%;
+	margin: 0 auto;
+	border: dotted 1px white;
+	color: #FFFFFF;
+	}
+
+
+
+
+#content 
+	{
+	background-color: #000000;
+	padding: 50px 20px;
+	min-height: 600px;
+	text-align:center;
+	background-image:url('pictures/backgroundv3.png');
+	background-size:55.5% 82%;
+	background-position:center center;
+	background-repeat:no-repeat;
+	}
+
+
+#rules 
+	{
+	text-align:center;
+	color: #FFFFFF;
+	}
+
+footer 
+	{
+	padding: 10px 20px;
+	font-size: 10pt;
+	background-color: #919191;
+	border-top: dotted 1px black;
+	color: #E0E0E0;
+	}
+
+table,th,td
+	{
+	border:1px solid white;
+	border-collapse:collapse
+	}
